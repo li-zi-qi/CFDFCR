@@ -9,6 +9,8 @@
 - **Operating System**: Windows 11 25H2
 - **MATLAB Version**: 2021a
 
+---
+
 ## Parameter Settings
 
 ### AR Dataset
@@ -50,6 +52,6 @@
 
 ### Oxford 102 Flowers Dataset
 
-- λ1 = 0.001, λ2 = 0.001, λ3 = 0.1, K =80, γ1 = 0.01, γ2 = 01, μ = 1
+- λ1 = 0.001, λ2 = 0.001, λ3 = 0.1, K =80, γ1 = 0.01, γ2 = 0.1, μ = 1
 
 ---
